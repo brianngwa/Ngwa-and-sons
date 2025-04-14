@@ -83,9 +83,6 @@ nav {
   background-color: var(--primary-color);
 }
 
-.logo__header {
-  background-color: #171717;
-}
 
 .nav__logo .logo {
   color: var(--white);
