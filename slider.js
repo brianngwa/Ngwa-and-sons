@@ -33,3 +33,4 @@ showSlide("slider1", 0);
 showSlide("slider2", 0);
 showSlide("slider3", 0);
 showSlide("slider4", 0);
+showSlide("slider5", 0);
